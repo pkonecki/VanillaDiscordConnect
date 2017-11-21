@@ -2,7 +2,7 @@
 Vanilla Forum Plugin that enables linking forum account to discord account and sync roles
 
 ## Setup
-Put the source in your plugin Directory under DiscordConnect folder
+Put the DiscordConnect folder in your plugins Directory.
 Go to settings and fill your app/bot infos & guildid
 
 ## Usage
